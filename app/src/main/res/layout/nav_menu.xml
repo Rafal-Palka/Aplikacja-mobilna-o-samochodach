@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="69dp" android:layout_width="69dp">
+    <group>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_gallery"
+            android:title="Gallery"/>
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_contacts"
+            android:title="Contacts"/>
+        <item
+            android:id="@+id/nav_pdfviewer"
+            android:icon="@drawable/ic_pdf"
+            android:title="pdfviewer"/>
+
+        <item
+            android:id="@+id/nav_webview"
+            android:icon="@drawable/ic_webview1"
+            android:title="Automobile Auction"/>
+    </group>
+
+</menu>

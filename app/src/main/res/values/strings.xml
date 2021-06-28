@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="fui_default_toolbar_title">Samochody</string>
+    <string name="super_cars_portfolio">Super Cars Portfolio</string>
+    <string name="activity_gallery">Samochody</string>
+    <string name="content_main">Welcome, See Awesome Cars</string>
+    <string name="contacts_activity">Contacts Form and Map</string>
+    <string name="single_item_gallery"></string>
+    <string name="single_item_for_gallery"></string>
+
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
